@@ -30,7 +30,7 @@ const PricingPage = () => {
               </li>
             </Box>
           </Box>
-          <Button colorScheme="purple" mt={12} onClick={() => window.open("https://github.com/sweepai/sweep#-getting-started", "_blank")}>
+          <Button colorScheme="purple" mt={12} onClick={() => window.open("https://github.com/sweepai/sweep#getting-started", "_blank")}>
             Install
           </Button>
         </Box>
